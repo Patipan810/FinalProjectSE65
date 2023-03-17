@@ -1,6 +1,10 @@
 # FinalProjectSE65
 This project is a part of sc362102 Sofeware Engineering in IT program at College of Computing, Khon Kaen University
 
-การพัฒนาระบบจองรถเทศบาลนครขอนแก่น
-ใช้คำสั่ง go run. ในไฟล์ GO-API
-ใช้คำสั่ง rundev ในไฟล์ GO-API
+การพัฒนาระบบเช่ารถ
+วิธีการติดตั้ง
+  1.ให้โหลดไฟล์ทั้ง2ไฟล์
+  2.เปิดFolerในVScode หรือโปรแกรมอื่นๆ
+วิธีใช้งาน
+  1.ใช้คำสั่ง go run. ในไฟล์ GO-API จะเป็นการรัน back-end โดยจะมีระบบ เพิ่ม แก้ไขหรือลบ ข้อมูลได้
+  2.ใช้คำสั่ง npm run dev ในไฟล์ Login-nextproject จะเป็นการ Front-end โดย จะเป็นการเปิดหน้าเว็บ
